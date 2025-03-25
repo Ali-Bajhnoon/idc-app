@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818923357719",
+    "project_id": "idc-app-1a88a",
+    "storage_bucket": "idc-app-1a88a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818923357719:android:c399494bb25c431dcb3e52",
+        "android_client_info": {
+          "package_name": "com.idc.idc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDswDUBPhpzsXGlXOvuEPX6xzlgBEb-KPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
